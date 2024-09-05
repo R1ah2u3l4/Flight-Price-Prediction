@@ -36,6 +36,9 @@ Duration: Total duration of the flight.
 
 Total_Stops: Total stops between the source and destination.
 
+
+
+
 Additional_Info: Additional information about the flight
 
 Price: The price of the ticket
